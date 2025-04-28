@@ -1,0 +1,11 @@
+{
+  "yatri": null,
+  "csrf": null,
+  "meetDate": "YOUR CURRENT MEET DATE",
+  "email": "YOUR EMAIL",
+  "password": "YOUR PASSWORD",
+  "phone": "YOUR PHONE WITH COUNTRY ID",
+  "twilioAccountSid": "YOUR TWILIO ACCOUNT SID",
+  "twilioAuthToken": "YOUR TWILIO AUTH TOKEN",
+  "twilioMessagingServiceSid": "YOUR TWILIO MESSAGING SERVICE SID"
+}
